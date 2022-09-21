@@ -1,0 +1,418 @@
+INFO  12:17:42 Application started. Press Ctrl+C to shut down.
+INFO  12:17:42 Application started. Press Ctrl+C to shut down.
+INFO  12:17:42 Hosting environment: Development
+INFO  12:17:42 Hosting environment: Development
+INFO  12:17:42 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  12:17:42 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  12:29:28 Application started. Press Ctrl+C to shut down.
+INFO  12:29:28 Application started. Press Ctrl+C to shut down.
+INFO  12:29:28 Hosting environment: Development
+INFO  12:29:28 Hosting environment: Development
+INFO  12:29:28 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  12:29:28 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  12:29:46 login Authentication started
+INFO  12:29:46 user should not be null 
+INFO  12:29:49 Authorization Completed Succeessfully
+INFO  12:32:10 Application started. Press Ctrl+C to shut down.
+INFO  12:32:10 Application started. Press Ctrl+C to shut down.
+INFO  12:32:10 Hosting environment: Development
+INFO  12:32:10 Hosting environment: Development
+INFO  12:32:10 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  12:32:10 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  12:32:28 login Authentication started
+INFO  12:32:28 unauthorized User 
+INFO  12:32:32 Token generated Successfully
+INFO  12:32:32 Authorization Completed Succeessfully
+INFO  10:55:06 Application started. Press Ctrl+C to shut down.
+INFO  10:55:06 Application started. Press Ctrl+C to shut down.
+INFO  10:55:06 Hosting environment: Development
+INFO  10:55:06 Hosting environment: Development
+INFO  10:55:07 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  10:55:07 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  10:55:51 User Repository Constructor Initiated
+INFO  10:55:51 login Authentication started
+INFO  10:55:51 Authentication Started
+INFO  10:55:57 Token generated Successfully
+INFO  10:55:57 Token Generation Started
+INFO  10:55:58 Authorization Completed Succeessfully
+INFO  11:01:53 User Repository Constructor Initiated
+INFO  11:01:53 login Authentication started
+INFO  11:01:53 Authentication Started
+INFO  11:01:53 Token generated Successfully
+INFO  11:01:53 Token Generation Started
+INFO  11:01:53 Authorization Completed Succeessfully
+INFO  11:05:24 User Repository Constructor Initiated
+INFO  11:05:24 login Authentication started
+INFO  11:05:24 Authentication Started
+INFO  11:05:24 Token generated Successfully
+INFO  11:05:24 Token Generation Started
+INFO  11:05:24 Authorization Completed Succeessfully
+INFO  11:11:16 Application started. Press Ctrl+C to shut down.
+INFO  11:11:16 Application started. Press Ctrl+C to shut down.
+INFO  11:11:16 Hosting environment: Development
+INFO  11:11:16 Hosting environment: Development
+INFO  11:11:16 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  11:11:16 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  11:12:00 User Repository Constructor Initiated
+INFO  11:12:00 login Authentication started
+INFO  11:12:00 Authentication Started
+INFO  11:12:03 Token generated Successfully
+INFO  11:12:04 Token Generation Started
+INFO  11:12:04 Authorization Completed Succeessfully
+INFO  11:18:19 User Repository Constructor Initiated
+INFO  11:18:19 login Authentication started
+INFO  11:18:19 Authentication Started
+INFO  11:18:20 Token generated Successfully
+INFO  11:18:20 Token Generation Started
+INFO  11:18:20 Authorization Completed Succeessfully
+INFO  11:26:28 User Repository Constructor Initiated
+INFO  11:26:28 login Authentication started
+INFO  11:26:28 Authentication Started
+INFO  11:26:28 Token generated Successfully
+INFO  11:26:28 Token Generation Started
+INFO  11:26:28 Authorization Completed Succeessfully
+INFO  11:29:51 User Repository Constructor Initiated
+INFO  11:29:51 login Authentication started
+INFO  11:29:51 Authentication Started
+INFO  11:29:51 Token generated Successfully
+INFO  11:29:51 Token Generation Started
+INFO  11:29:51 Authorization Completed Succeessfully
+INFO  11:33:26 Application started. Press Ctrl+C to shut down.
+INFO  11:33:26 Application started. Press Ctrl+C to shut down.
+INFO  11:33:27 Hosting environment: Development
+INFO  11:33:27 Hosting environment: Development
+INFO  11:33:27 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  11:33:27 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  11:35:13 User Repository Constructor Initiated
+INFO  11:35:13 login Authentication started
+INFO  11:35:13 Authentication Started
+INFO  11:35:14 User Repository Constructor Initiated
+INFO  11:35:14 login Authentication started
+INFO  11:35:14 Authentication Started
+INFO  11:35:16 Token generated Successfully
+INFO  11:35:16 Token generated Successfully
+INFO  11:35:16 Token Generation Started
+INFO  11:35:16 Token Generation Started
+INFO  11:35:17 Authorization Completed Succeessfully
+INFO  11:35:17 Authorization Completed Succeessfully
+INFO  12:29:41 Application started. Press Ctrl+C to shut down.
+INFO  12:29:41 Application started. Press Ctrl+C to shut down.
+INFO  12:29:41 Hosting environment: Development
+INFO  12:29:41 Hosting environment: Development
+INFO  12:29:41 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  12:29:41 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  12:30:14 User Repository Constructor Initiated
+INFO  12:30:14 login Authentication started
+INFO  12:30:14 Authentication Started
+INFO  12:30:16 Token generated Successfully
+INFO  12:30:16 Token Generation Started
+INFO  12:30:16 Authorization Completed Succeessfully
+INFO  12:38:48 User Repository Constructor Initiated
+INFO  12:38:48 login Authentication started
+INFO  12:38:48 Authentication Started
+INFO  12:38:48 Token generated Successfully
+INFO  12:38:48 Token Generation Started
+INFO  12:38:48 Authorization Completed Succeessfully
+INFO  05:05:11 Application started. Press Ctrl+C to shut down.
+INFO  05:05:11 Application started. Press Ctrl+C to shut down.
+INFO  05:05:11 Hosting environment: Development
+INFO  05:05:11 Hosting environment: Development
+INFO  05:05:11 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  05:05:11 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  05:06:15 User Repository Constructor Initiated
+INFO  05:06:15 login Authentication started
+INFO  05:06:15 Authentication Started
+INFO  05:06:19 Token generated Successfully
+INFO  05:06:19 Token Generation Started
+INFO  05:06:19 Authorization Completed Succeessfully
+INFO  05:15:16 User Repository Constructor Initiated
+INFO  05:15:16 login Authentication started
+INFO  05:15:16 Authentication Started
+INFO  05:15:17 Token generated Successfully
+INFO  05:15:17 Token Generation Started
+INFO  05:15:17 Authorization Completed Succeessfully
+INFO  05:16:45 User Repository Constructor Initiated
+INFO  05:16:45 login Authentication started
+INFO  05:16:45 Authentication Started
+INFO  05:16:45 Token generated Successfully
+INFO  05:16:45 Token Generation Started
+INFO  05:16:45 Authorization Completed Succeessfully
+INFO  05:48:25 Application started. Press Ctrl+C to shut down.
+INFO  05:48:25 Application started. Press Ctrl+C to shut down.
+INFO  05:48:25 Hosting environment: Development
+INFO  05:48:25 Hosting environment: Development
+INFO  05:48:25 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  05:48:25 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  05:50:57 User Repository Constructor Initiated
+INFO  05:50:57 login Authentication started
+INFO  05:50:57 Authentication Started
+INFO  05:50:59 Token generated Successfully
+INFO  05:50:59 Token Generation Started
+INFO  05:51:00 Authorization Completed Succeessfully
+INFO  05:55:38 User Repository Constructor Initiated
+INFO  05:55:38 login Authentication started
+INFO  05:55:38 Authentication Started
+INFO  05:55:38 Token generated Successfully
+INFO  05:55:38 Token Generation Started
+INFO  05:55:38 Authorization Completed Succeessfully
+INFO  05:57:41 User Repository Constructor Initiated
+INFO  05:57:41 login Authentication started
+INFO  05:57:41 Authentication Started
+INFO  05:57:41 Token generated Successfully
+INFO  05:57:41 Token Generation Started
+INFO  05:57:41 Authorization Completed Succeessfully
+INFO  06:00:22 Application started. Press Ctrl+C to shut down.
+INFO  06:00:22 Application started. Press Ctrl+C to shut down.
+INFO  06:00:22 Hosting environment: Development
+INFO  06:00:22 Hosting environment: Development
+INFO  06:00:22 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  06:00:22 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  06:00:48 User Repository Constructor Initiated
+INFO  06:00:48 login Authentication started
+INFO  06:00:48 Authentication Started
+INFO  06:00:50 Token generated Successfully
+INFO  06:00:50 Token Generation Started
+INFO  06:00:51 Authorization Completed Succeessfully
+INFO  06:05:58 User Repository Constructor Initiated
+INFO  06:05:58 login Authentication started
+INFO  06:05:58 Authentication Started
+INFO  06:05:58 Token generated Successfully
+INFO  06:05:58 Token Generation Started
+INFO  06:05:58 Authorization Completed Succeessfully
+INFO  06:20:46 User Repository Constructor Initiated
+INFO  06:20:46 login Authentication started
+INFO  06:20:46 Authentication Started
+INFO  06:20:46 Token generated Successfully
+INFO  06:20:46 Token Generation Started
+INFO  06:20:46 Authorization Completed Succeessfully
+INFO  06:22:35 User Repository Constructor Initiated
+INFO  06:22:35 login Authentication started
+INFO  06:22:35 Authentication Started
+INFO  06:22:35 Token generated Successfully
+INFO  06:22:35 Token Generation Started
+INFO  06:22:35 Authorization Completed Succeessfully
+INFO  07:30:52 User Repository Constructor Initiated
+INFO  07:30:52 login Authentication started
+INFO  07:30:52 Authentication Started
+INFO  07:30:52 Token generated Successfully
+INFO  07:30:52 Token Generation Started
+INFO  07:30:52 Authorization Completed Succeessfully
+INFO  07:32:47 User Repository Constructor Initiated
+INFO  07:32:47 login Authentication started
+INFO  07:32:47 Authentication Started
+INFO  07:32:47 Token generated Successfully
+INFO  07:32:47 Token Generation Started
+INFO  07:32:47 Authorization Completed Succeessfully
+INFO  07:39:00 Application started. Press Ctrl+C to shut down.
+INFO  07:39:00 Application started. Press Ctrl+C to shut down.
+INFO  07:39:00 Hosting environment: Development
+INFO  07:39:00 Hosting environment: Development
+INFO  07:39:00 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  07:39:00 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  07:40:04 User Repository Constructor Initiated
+INFO  07:40:04 login Authentication started
+INFO  07:40:04 Authentication Started
+INFO  07:40:07 Token generated Successfully
+INFO  07:40:07 Token Generation Started
+INFO  07:40:08 Authorization Completed Succeessfully
+INFO  07:44:09 User Repository Constructor Initiated
+INFO  07:44:09 login Authentication started
+INFO  07:44:09 Authentication Started
+INFO  07:44:09 Token generated Successfully
+INFO  07:44:09 Token Generation Started
+INFO  07:44:09 Authorization Completed Succeessfully
+INFO  07:46:09 User Repository Constructor Initiated
+INFO  07:46:09 login Authentication started
+INFO  07:46:09 Authentication Started
+INFO  07:46:09 Token generated Successfully
+INFO  07:46:09 Token Generation Started
+INFO  07:46:09 Authorization Completed Succeessfully
+INFO  07:51:06 Application started. Press Ctrl+C to shut down.
+INFO  07:51:06 Application started. Press Ctrl+C to shut down.
+INFO  07:51:07 Hosting environment: Development
+INFO  07:51:07 Hosting environment: Development
+INFO  07:51:07 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  07:51:07 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  07:52:50 User Repository Constructor Initiated
+INFO  07:52:50 login Authentication started
+INFO  07:52:50 Authentication Started
+INFO  07:52:53 Token generated Successfully
+INFO  07:52:53 Token Generation Started
+INFO  07:52:54 Authorization Completed Succeessfully
+INFO  07:56:59 User Repository Constructor Initiated
+INFO  07:56:59 login Authentication started
+INFO  07:56:59 Authentication Started
+INFO  07:56:59 Token generated Successfully
+INFO  07:56:59 Token Generation Started
+INFO  07:56:59 Authorization Completed Succeessfully
+INFO  07:57:29 User Repository Constructor Initiated
+INFO  07:57:29 login Authentication started
+INFO  07:57:29 Authentication Started
+INFO  07:57:29 Token generated Successfully
+INFO  07:57:29 Token Generation Started
+INFO  07:57:29 Authorization Completed Succeessfully
+INFO  10:01:04 Application started. Press Ctrl+C to shut down.
+INFO  10:01:04 Application started. Press Ctrl+C to shut down.
+INFO  10:01:05 Hosting environment: Development
+INFO  10:01:05 Hosting environment: Development
+INFO  10:01:05 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  10:01:05 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  10:01:46 User Repository Constructor Initiated
+INFO  10:01:46 login Authentication started
+INFO  10:01:46 Authentication Started
+INFO  10:01:50 Token generated Successfully
+INFO  10:01:50 Token Generation Started
+INFO  10:01:50 Authorization Completed Succeessfully
+INFO  10:08:32 User Repository Constructor Initiated
+INFO  10:08:32 login Authentication started
+INFO  10:08:32 Authentication Started
+INFO  10:08:32 Token generated Successfully
+INFO  10:08:32 Token Generation Started
+INFO  10:08:32 Authorization Completed Succeessfully
+INFO  10:10:44 User Repository Constructor Initiated
+INFO  10:10:44 login Authentication started
+INFO  10:10:44 Authentication Started
+INFO  10:10:44 Token generated Successfully
+INFO  10:10:44 Token Generation Started
+INFO  10:10:44 Authorization Completed Succeessfully
+INFO  09:12:40 Application started. Press Ctrl+C to shut down.
+INFO  09:12:40 Application started. Press Ctrl+C to shut down.
+INFO  09:12:40 Hosting environment: Development
+INFO  09:12:40 Hosting environment: Development
+INFO  09:12:40 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  09:12:40 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  09:15:13 User Repository Constructor Initiated
+INFO  09:15:14 login Authentication started
+INFO  09:15:14 Authentication Started
+INFO  09:15:17 Token generated Successfully
+INFO  09:15:18 Token Generation Started
+INFO  09:15:18 Authorization Completed Succeessfully
+INFO  09:26:07 User Repository Constructor Initiated
+INFO  09:26:07 login Authentication started
+INFO  09:26:07 Authentication Started
+INFO  09:26:07 Token generated Successfully
+INFO  09:26:07 Token Generation Started
+INFO  09:26:07 Authorization Completed Succeessfully
+INFO  09:26:36 User Repository Constructor Initiated
+INFO  09:26:36 login Authentication started
+INFO  09:26:36 Authentication Started
+INFO  09:26:36 Token generated Successfully
+INFO  09:26:36 Token Generation Started
+INFO  09:26:36 Authorization Completed Succeessfully
+INFO  09:30:39 Application started. Press Ctrl+C to shut down.
+INFO  09:30:40 Application started. Press Ctrl+C to shut down.
+INFO  09:30:40 Hosting environment: Development
+INFO  09:30:40 Hosting environment: Development
+INFO  09:30:40 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  09:30:40 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  09:36:16 User Repository Constructor Initiated
+INFO  09:36:16 login Authentication started
+INFO  09:36:16 Authentication Started
+INFO  09:36:18 User Repository Constructor Initiated
+INFO  09:36:18 login Authentication started
+INFO  09:36:18 Authentication Started
+INFO  09:36:19 Token generated Successfully
+INFO  09:36:19 Token generated Successfully
+INFO  09:36:19 Token Generation Started
+INFO  09:36:19 Token Generation Started
+INFO  09:36:20 Authorization Completed Succeessfully
+INFO  09:36:20 Authorization Completed Succeessfully
+INFO  09:38:26 User Repository Constructor Initiated
+INFO  09:38:26 login Authentication started
+INFO  09:38:26 Authentication Started
+INFO  09:38:31 User Repository Constructor Initiated
+INFO  09:38:31 login Authentication started
+INFO  09:38:31 Authentication Started
+INFO  09:38:31 Token generated Successfully
+INFO  09:38:31 Token Generation Started
+INFO  09:38:31 Authorization Completed Succeessfully
+INFO  09:39:13 User Repository Constructor Initiated
+INFO  09:39:13 login Authentication started
+INFO  09:39:13 Authentication Started
+INFO  09:39:13 Token generated Successfully
+INFO  09:39:13 Token Generation Started
+INFO  09:39:13 Authorization Completed Succeessfully
+INFO  09:44:57 Application started. Press Ctrl+C to shut down.
+INFO  09:44:57 Application started. Press Ctrl+C to shut down.
+INFO  09:44:57 Hosting environment: Development
+INFO  09:44:57 Hosting environment: Development
+INFO  09:44:57 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  09:44:57 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  09:46:27 User Repository Constructor Initiated
+INFO  09:46:27 login Authentication started
+INFO  09:46:27 Authentication Started
+INFO  09:46:29 Token generated Successfully
+INFO  09:46:29 Token Generation Started
+INFO  09:46:29 Authorization Completed Succeessfully
+INFO  09:51:42 User Repository Constructor Initiated
+INFO  09:51:42 login Authentication started
+INFO  09:51:42 Authentication Started
+INFO  09:51:42 Token generated Successfully
+INFO  09:51:42 Token Generation Started
+INFO  09:51:42 Authorization Completed Succeessfully
+INFO  09:53:49 User Repository Constructor Initiated
+INFO  09:53:49 login Authentication started
+INFO  09:53:49 Authentication Started
+INFO  09:53:49 Token generated Successfully
+INFO  09:53:49 Token Generation Started
+INFO  09:53:49 Authorization Completed Succeessfully
+INFO  09:58:29 Application started. Press Ctrl+C to shut down.
+INFO  09:58:29 Application started. Press Ctrl+C to shut down.
+INFO  09:58:29 Hosting environment: Development
+INFO  09:58:29 Hosting environment: Development
+INFO  09:58:29 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  09:58:29 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  09:59:19 User Repository Constructor Initiated
+INFO  09:59:19 login Authentication started
+INFO  09:59:19 Authentication Started
+INFO  09:59:22 Token generated Successfully
+INFO  09:59:22 Token Generation Started
+INFO  09:59:22 Authorization Completed Succeessfully
+INFO  10:02:00 User Repository Constructor Initiated
+INFO  10:02:00 login Authentication started
+INFO  10:02:00 Authentication Started
+INFO  10:02:00 Token generated Successfully
+INFO  10:02:00 Token Generation Started
+INFO  10:02:00 Authorization Completed Succeessfully
+INFO  10:19:25 Application started. Press Ctrl+C to shut down.
+INFO  10:19:25 Application started. Press Ctrl+C to shut down.
+INFO  10:19:25 Hosting environment: Development
+INFO  10:19:25 Hosting environment: Development
+INFO  10:19:25 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  10:19:25 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  10:21:26 User Repository Constructor Initiated
+INFO  10:21:26 login Authentication started
+INFO  10:21:26 Authentication Started
+INFO  10:21:28 Token generated Successfully
+INFO  10:21:28 Token Generation Started
+INFO  10:21:29 Authorization Completed Succeessfully
+INFO  10:25:27 Application started. Press Ctrl+C to shut down.
+INFO  10:25:27 Application started. Press Ctrl+C to shut down.
+INFO  10:25:27 Hosting environment: Development
+INFO  10:25:27 Hosting environment: Development
+INFO  10:25:27 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  10:25:27 Content root path: C:\Users\2156003\CorporateClassifieds-final\AuthorizationMicroservice
+INFO  10:26:11 User Repository Constructor Initiated
+INFO  10:26:11 login Authentication started
+INFO  10:26:11 Authentication Started
+INFO  10:26:14 Token generated Successfully
+INFO  10:26:14 Token Generation Started
+INFO  10:26:14 Authorization Completed Succeessfully
+INFO  10:30:18 User Repository Constructor Initiated
+INFO  10:30:18 login Authentication started
+INFO  10:30:18 Authentication Started
+INFO  10:30:18 Token generated Successfully
+INFO  10:30:18 Token Generation Started
+INFO  10:30:18 Authorization Completed Succeessfully
+INFO  10:32:01 User Repository Constructor Initiated
+INFO  10:32:01 login Authentication started
+INFO  10:32:01 Authentication Started
+INFO  10:32:01 Token generated Successfully
+INFO  10:32:01 Token Generation Started
+INFO  10:32:01 Authorization Completed Succeessfully
+INFO  10:33:08 User Repository Constructor Initiated
+INFO  10:33:08 login Authentication started
+INFO  10:33:08 Authentication Started
+INFO  10:33:08 Token generated Successfully
+INFO  10:33:08 Token Generation Started
+INFO  10:33:08 Authorization Completed Succeessfully
